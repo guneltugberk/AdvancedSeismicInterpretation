@@ -84,7 +84,7 @@ model.BiottGassman(
 )
 ```
 
-** Example plot of this fluid substitution workflow is given below **
+* Example plot of this fluid substitution workflow is given below *
 ![Comparison Result](comparison.png)
 
 ## Visualization
