@@ -53,7 +53,7 @@ model = SeismicModeler(
 )
 ```
 
-** Example plot of this modelling workflow is given below **
+**Example plot of this modelling workflow is given below. This modelling result represents the output of the given dataset.**
 ![Modelling Result](initial.png)
 
 Compute and visualize synthetic seismic:
@@ -84,7 +84,7 @@ model.BiottGassman(
 )
 ```
 
-* Example plot of this fluid substitution workflow is given below *
+**Example plot of this fluid substitution workflow is given below. This example assumes that the oil-water system is partially replaced by gas.**
 ![Comparison Result](comparison.png)
 
 ## Visualization
